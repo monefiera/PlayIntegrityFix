@@ -20,7 +20,7 @@
 #define CUSTOM_JSON_FORK "/data/adb/modules/playintegrityfix/custom.pif.json"
 #define CUSTOM_JSON "/data/adb/pif.json"
 
-#define VENDING_PACKAGE "com.android.vending"
+#define VENDING_PACKAGE "com.android.vending.splits"
 #define DROIDGUARD_PACKAGE "com.google.android.gms.unstable"
 
 static ssize_t xread(int fd, void *buffer, size_t count) {
